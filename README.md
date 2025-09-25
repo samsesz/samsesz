@@ -1,7 +1,7 @@
 <h1 align="center">hello there!! 🤖</h1>
-[⠀](#) <!-- link vazio só pra camuflar -->
-[passa o mouse](# "general kenobi!!!")
-
+<p align="center">
+  <a href="#" title="general kenobi!! 👀">⠀</a>
+</p>
 
 ###
 
