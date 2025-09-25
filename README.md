@@ -1,7 +1,4 @@
-<details>
-  <summary>clique aqui</summary>
-  general kenobi!! 
-</details>
+
 <h1 align="center">hello there!! 🤖</h1>
 
 
