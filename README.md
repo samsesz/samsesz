@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Sam!<br><br>- 📚 I'm currently learning Html, CSS, NodeJS, MySql, Java, JavaScript, Python, React and more!<br>- 👀 I’m interested in games, music, crochet, drawing and cats!<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: i LOVE philosophy, mainly Albert Camus!</p>
+<p align="left">I'm Sam!<br><br>- 📚 I'm currently learning Html, CSS, NodeJS, MySql, Java, JavaScript, Python, React and more!<br>- 👀 I’m interested in games, music, crochet, drawing and cats!<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: i LOVE philosophy!</p>
 
 ###
 
